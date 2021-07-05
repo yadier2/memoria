@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/memoria/static/css/main.b92c42cc.chunk.css",
+    "main.js": "/memoria/static/js/main.30e327f1.chunk.js",
+    "main.js.map": "/memoria/static/js/main.30e327f1.chunk.js.map",
+    "runtime-main.js": "/memoria/static/js/runtime-main.b726d946.js",
+    "runtime-main.js.map": "/memoria/static/js/runtime-main.b726d946.js.map",
+    "static/css/2.0d1e1eb7.chunk.css": "/memoria/static/css/2.0d1e1eb7.chunk.css",
+    "static/js/2.ffed1afd.chunk.js": "/memoria/static/js/2.ffed1afd.chunk.js",
+    "static/js/2.ffed1afd.chunk.js.map": "/memoria/static/js/2.ffed1afd.chunk.js.map",
+    "index.html": "/memoria/index.html",
+    "static/css/2.0d1e1eb7.chunk.css.map": "/memoria/static/css/2.0d1e1eb7.chunk.css.map",
+    "static/css/main.b92c42cc.chunk.css.map": "/memoria/static/css/main.b92c42cc.chunk.css.map",
+    "static/js/2.ffed1afd.chunk.js.LICENSE.txt": "/memoria/static/js/2.ffed1afd.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/memoria/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b726d946.js",
+    "static/css/2.0d1e1eb7.chunk.css",
+    "static/js/2.ffed1afd.chunk.js",
+    "static/css/main.b92c42cc.chunk.css",
+    "static/js/main.30e327f1.chunk.js"
+  ]
+}
